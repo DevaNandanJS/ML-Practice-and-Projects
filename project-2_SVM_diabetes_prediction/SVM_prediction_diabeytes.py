@@ -9,6 +9,3 @@ from sklearn.metrics import accuracy_score
 
 #loading the dataset
 diabetes_dataset= pd.read_csv("datasets/diabetes.csv")
-
-
-#EDA
